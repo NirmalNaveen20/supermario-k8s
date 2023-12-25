@@ -1,11 +1,7 @@
 
 #  Deploying Super Mario on Kubernetes
 
-Super Mario is a classic game loved by many. In this guide, we'll explore how to deploy a Super Mario game on Amazon's Elastic Kubernetes Service (EKS). Utilizing Kubernetes, we can orchestrate the game's deployment on AWS EKS, allowing for scalability, reliability, and easy manageme
-
-AWS ECS Fargate: A serverless compute engine for containers that allows you to run containers without the need to manage the underlying infrastructure.
-
-AWS ECR: A fully managed Docker container registry that makes it easy to store, manage, and deploy Docker container images.
+Super Mario is a classic game loved by many. In this guide, we'll explore how to deploy a Super Mario game on Amazon's Elastic Kubernetes Service (EKS). Utilizing Kubernetes, we can orchestrate the game's deployment on AWS EKS, allowing for scalability, reliability, and easy management
 
 ## Let's Deploy
 #### Step 1. Launch Ubuntu instance
